@@ -1,4 +1,4 @@
-# 2015lab3
+# 2015lab4
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
@@ -33,5 +33,3 @@ In case we make changes, you can incorporate them into your repo by doing: `git 
 The diagram below should help elucidate the above and serve as a command cheat-sheet.
 
 ![homework](./images/cs109gitflow3.png)
-
-# 2015lab4
